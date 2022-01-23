@@ -39,7 +39,6 @@
     "useDefault": "default",
     "userPoolGroupList": [],
     "serviceName": "Cognito",
-    "usernameCaseSensitive": false,
-    "useEnabledMfas": true
+    "usernameCaseSensitive": false
   }
 }
