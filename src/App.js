@@ -5,7 +5,7 @@ import '@aws-amplify/ui-react/styles.css';
 
 import awsExports from './aws-exports';
 Amplify.configure(awsExports);
-
+// make a small change to force a deploy
 export default function App() {
   return (
     <Authenticator>
